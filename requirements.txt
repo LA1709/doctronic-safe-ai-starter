@@ -2,3 +2,8 @@ fastapi
 uvicorn
 pydantic
 pytest
+httpx2
+matplotlib
+seaborn
+plotly
+streamlit
