@@ -6,3 +6,4 @@ httpx2
 matplotlib
 seaborn
 plotly
+streamlit
